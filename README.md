@@ -40,9 +40,6 @@ From the data, it is evident that Lot 3 is increasing the overall variance of th
 
 ## T-Tests on Suspension Coils
 
-Null Hypotheses : MechaCars (sample) have no difference in cost in comparision to competitors (population)
-
-Alternate Hypothesis : MechaCars (sample) have a difference in cost in comparsion to competitors (population)
 
 1. T-test comparing all manufacturing lots against mean PSI
 
@@ -74,7 +71,13 @@ Overall, it is evident that something was significantly different during the pro
 
 ## Study Design: MechaCar vs Competition
 
+To quantify our analysis, additional statistical analysis can be performed on overall costs for MechaCars as compared to competitors.
 
+### Hypothesis
+
+Null Hypotheses : MechaCars (sample) have no difference in cost in comparision to competitors (population)
+
+Alternate Hypothesis : MechaCars (sample) have a difference in cost in comparsion to competitors (population)
 
 
 
