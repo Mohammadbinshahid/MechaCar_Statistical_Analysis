@@ -71,14 +71,21 @@ Overall, it is evident that something was significantly different during the pro
 
 ## Study Design: MechaCar vs Competition
 
-To quantify our analysis, additional statistical analysis can be performed on overall costs for MechaCars as compared to competitors.
+To quantify our analysis, additional statistical analysis can be performed on overall metrics for MechaCars as compared to competitors such as purchase cost for consumer (i.e. market price), highway fuel efficiency, horse power, maintenance cost, or safety ratings. For our analysis we can create a hypothesis for price of metacars as compared to competition.
 
 ### Hypothesis
 
-Null Hypotheses : MechaCars (sample) have no difference in cost in comparision to competitors (population)
+Null Hypotheses : MechaCars (sample) is priced correctly based on key performance indicators in comparision to competitors (population)
 
-Alternate Hypothesis : MechaCars (sample) have a difference in cost in comparsion to competitors (population)
+Alternate Hypothesis : MechaCars (sample) is Not priced correctly based on key performance indicators in comparision to competitors (population)
 
+### Statistical Tests
+
+A multiple linear regression can be performed to determine the factors that have the highest correlation/predictability with the listed selling price (dependent variable). T tests can be run to assess each of these factors compared to competition to come up with an idea of MEchaCars viability for consumers.
+
+## Data Required
+
+Data of MechaCars models, fuel efficiency, horsepower and price in comparison to industry data from competitors would be required to run the analysis. Price can be considered a normally distributed dependent variable for the statistical analysis.
 
 
 
