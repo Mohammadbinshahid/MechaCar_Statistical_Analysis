@@ -59,7 +59,7 @@ The true mean for lot one is actually 1500 which is equal to the presumed popula
 
 For lot 2, outcome is almost similar to lot 1. The mean of the sample come to 1500.2 which is again not statistically different from population mean. p-value greater than 0.05 also validates this.
 
-3. T-test comparing lot 3 against mean PSI
+4. T-test comparing lot 3 against mean PSI
 
 ![Deliverable 3 Screenshot # 4](https://user-images.githubusercontent.com/104873181/185533971-e356b651-470c-4535-b34f-42cf04faab26.png)
 
